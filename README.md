@@ -1,5 +1,11 @@
-## SnusCraft - Minecraft Snus Plugin
-This plugin allows you to add new craftable items, Snus, to you Minecraft world!
+## BuzzCraft - Minecraft Snus Plugin
+
+      ____                 _____            __ _   
+    |  _ \               / ____|          / _| |  
+    | |_) |_   _ _______| |     _ __ __ _| |_| |_
+    |  _ <| | | |_  /_  / |    | '__/ _` |  _| __|
+    | |_) | |_| |/ / / /| |____| | | (_| | | | |_
+    |____/ \__,_/___/___|\_____|_|  \__,_|_|  \__|
 
 ### Features:
 * Craft and find Snus throughout the world
