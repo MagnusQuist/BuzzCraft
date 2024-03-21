@@ -1,0 +1,4 @@
+name: BuzzCraft
+version: '${project.version}'
+main: dk.buzzcraft.BuzzCraft
+api-version: '1.20'
