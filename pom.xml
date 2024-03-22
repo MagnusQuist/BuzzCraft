@@ -6,7 +6,7 @@
 
   <groupId>dk.buzzcraft</groupId>
   <artifactId>BuzzCraft</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.26-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>BuzzCraft</name>

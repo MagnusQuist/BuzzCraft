@@ -1,0 +1,4 @@
+# Default snus health
+defaultSnusHealthValue: 10
+# Show scoreboard as default
+showScoreboard: false
